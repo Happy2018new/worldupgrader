@@ -1,10 +1,11 @@
 package worldupgrader
 
 import (
-	"github.com/df-mc/worldupgrader/blockupgrader"
-	"github.com/df-mc/worldupgrader/itemupgrader"
-	"github.com/stretchr/testify/assert"
 	"testing"
+
+	"github.com/Happy2018new/worldupgrader/blockupgrader"
+	"github.com/Happy2018new/worldupgrader/itemupgrader"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestBlockUpgrader(t *testing.T) {

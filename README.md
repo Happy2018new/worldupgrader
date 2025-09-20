@@ -4,7 +4,7 @@ Worldupgrader upgrades Minecraft Bedrock Edition worlds and their components to 
 
 ## Documentation
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/df-mc/worldupgrader)](https://pkg.go.dev/github.com/df-mc/worldupgrader)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/Happy2018new/worldupgrader)](https://pkg.go.dev/github.com/Happy2018new/worldupgrader)
 
 ## Credits
 
